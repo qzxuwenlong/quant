@@ -1,0 +1,15 @@
+# 敏感文件
+.env
+positions.json
+
+# 缓存
+_cache/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# 回测输出
+backtest_result.png
